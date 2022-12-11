@@ -1,0 +1,1 @@
+game:GetService("VirtualInputManager"):SendKeyEvent(true,Enum.KeyCode.E,false,game) -- this presses the E button without you touching the keyboard
